@@ -106,3 +106,7 @@ venv.bak/
 
 #.csv files 
 *.csv
+
+# non-Lambda
+Untitled1.ipynb
+Untitled.ipynb
